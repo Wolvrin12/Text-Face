@@ -1,66 +1,25 @@
-*{
-	margin: 0;
-	padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
 
-.continer{
-	position: relative;
-	width: 100%;
-	height: 100vh;
-	background: #000;
+.continer {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background: #000;
 }
 
-.continer img{
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100vh;
-	object-fit: cover;
+.continer img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
 }
 
-.continer img:nth-child(2){
-	mix-blend-mode: multiply;
-	visibility: visible;
+.continer img:nth-child(2) {
+  mix-blend-mode: multiply;
+  visibility: visible;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
